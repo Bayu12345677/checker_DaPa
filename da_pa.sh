@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# author : polygon
+# bash vers : 5.1
+# tools : checker da pa
+
 # bash moderen
 . lib/moduler.sh
 
