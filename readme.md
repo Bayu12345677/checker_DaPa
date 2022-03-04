@@ -50,5 +50,5 @@ Jika ada masalah silakan lakukan issue untuk melaporkan masalah
 ```
 <br>
 <br>
-<li><code>ikutin juga <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">youtube</a> saya</code></li>
+<li><code>ikuti juga <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">youtube</a> saya</code></li>
 
