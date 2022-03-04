@@ -17,7 +17,7 @@ yaitu sebuah alat yg berfungsi untuk mengecek DA (Domain Authority) dan PA (Page
 </p><br>
 
 <div>
-       kesimpulan nya alat checker da (domain Authority) dan pa (page authority) berfungsi melihat jumlah da dan pa untuk melihat jumlah dari da dan pa itu sendiri
+       kesimpulan nya alat checker da (domain Authority) dan pa (page authority) berfungsi melihat jumlah da dan pa dari suatu site
 </div>
 <br>
 <br>
