@@ -1,0 +1,3 @@
+inurl:/site.php?id=
+inurl:/index.php?id=
+inurl:.co.id
